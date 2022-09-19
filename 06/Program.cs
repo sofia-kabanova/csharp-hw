@@ -6,9 +6,9 @@ Console.Write("Введите число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 if (num % 2 == 0)
 {
-    Console.Write($"Является ли число {num} - четным? Да, является");
+    Console.Write($"Является ли число {num} четным? Да, является");
 }
 else 
 {
-    Console.Write ($"Является ли число {num} - четным? Нет, не является");
+    Console.Write ($"Является ли число {num} четным? Нет, не является");
 }
