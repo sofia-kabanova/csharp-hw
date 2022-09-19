@@ -2,9 +2,9 @@
 // на вход принимает два числа
 //  и выдаёт, какое число большее, а какое меньшее.
 Console.Clear();
-Console.Write("Введите целое число1: ");
+Console.Write("Введите целое число 1: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите целое число2: ");
+Console.Write("Введите целое число 2: ");
 int num2 = Convert.ToInt32(Console.ReadLine());
 if(num1>num2)
 {
